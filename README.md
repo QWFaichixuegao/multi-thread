@@ -18,3 +18,4 @@ qRegisterMetaType使用方法：
       3、Myclass的引用类型需单独注册：qRegisterMetaType<MyClass>("Myclass&")
   
   即队列方式使用connect
+ 
